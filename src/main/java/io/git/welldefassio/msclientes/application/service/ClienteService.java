@@ -1,4 +1,4 @@
-package io.git.welldefassio.msclientes.service;
+package io.git.welldefassio.msclientes.application.service;
 
 import io.git.welldefassio.msclientes.domain.Cliente;
 import io.git.welldefassio.msclientes.repositories.ClienteRepository;
